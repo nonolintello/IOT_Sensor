@@ -14,6 +14,7 @@ This project is an IoT ecosystem simulator, referring to the collection of devic
 
 3. **Manual Ecosystem Configuration:**
    If you choose manual configuration, you need to specify:
+
    - The number of sensors to simulate.
    - The measurement time for each sensor.
    - Activation of logging and console display.
@@ -23,4 +24,4 @@ This project is an IoT ecosystem simulator, referring to the collection of devic
 
 ---
 
-This README file succinctly describes the IOT_Sensor project, its main features, and how to use it.
+CLion has been used to develop this project, it way not works on other IDE.
