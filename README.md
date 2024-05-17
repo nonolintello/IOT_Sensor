@@ -2,26 +2,25 @@
 
 ## Description
 
-Ce projet est un simulateur d’écosystème IoT, faisant référence à l'ensemble des dispositifs et logiciels permettant la connexion, la collecte de données, la communication et la gestion des objets physiques (ou "choses") via Internet. Dans notre cas, ces objets seront représentés par divers types de capteurs. L'objectif principal de ce projet est de mettre en pratique les notions de C++ apprises en cours.
+This project is an IoT ecosystem simulator, referring to the collection of devices and software that enable connection, data collection, communication, and management of physical objects (or "things") via the Internet. In our case, these objects will be represented by various types of sensors. The primary goal of this project is to apply the C++ concepts learned during the course.
 
-## Manuel Utilisateur
+## User Manual
 
-1. **Choix de la configuration :**
-   Au démarrage, le programme propose de choisir entre une configuration par défaut et une configuration manuelle.
+1. **Configuration Selection:**
+   At startup, the program prompts you to choose between default configuration and manual configuration.
 
-2. **Configuration par défaut :**
-   Si vous optez pour la configuration par défaut, le programme affiche automatiquement les données des capteurs sur la console et les enregistre dans des fichiers logs dédiés à chaque capteur.
+2. **Default Configuration:**
+   If you opt for the default configuration, the program automatically displays sensor data on the console and logs it into dedicated log files for each sensor.
 
-3. **Configuration manuelle de l’écosystème :**
-   Si vous choisissez la configuration manuelle, vous devez spécifier :
+3. **Manual Ecosystem Configuration:**
+   If you choose manual configuration, you need to specify:
+   - The number of sensors to simulate.
+   - The measurement time for each sensor.
+   - Activation of logging and console display.
 
-   - Le nombre de capteurs à simuler.
-   - Le temps de mesure pour chaque capteur.
-   - L'activation des logs et de l'affichage sur la console.
-
-4. **Affichage des données :**
-   Après la configuration, le programme affiche les données des capteurs en fonction de votre choix de configuration.
+4. **Data Display:**
+   After configuration, the program displays sensor data based on your chosen configuration.
 
 ---
 
-Le projet a été développé à l'aide de CLion. Il y aura sans doute des erreurs en compilant autrement.
+This README file succinctly describes the IOT_Sensor project, its main features, and how to use it.
