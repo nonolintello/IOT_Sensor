@@ -1,0 +1,9 @@
+# ninja log v5
+3	542	1698242209575834286	CMakeFiles/untitled.dir/Server.cpp.o	477511926f9c33e6
+608	701	1698242365256490848	untitled	3cb14b186daa80ab
+10	608	1698242365161795290	CMakeFiles/untitled.dir/main.cpp.o	fed20615b985b369
+4	646	1698242209679899670	CMakeFiles/untitled.dir/Scheduler.cpp.o	89b6fcbc17e8fd89
+2	399	1710240486082732084	CMakeFiles/untitled.dir/Server.cpp.o	bd2fe8278635d5a5
+1	402	1710240486086341830	CMakeFiles/untitled.dir/main.cpp.o	5bfb7a8616888abe
+2	525	1710240486210836433	CMakeFiles/untitled.dir/Scheduler.cpp.o	f9c3f9b62cde3fb1
+525	557	1710240486245459924	untitled	919b08deb7f7189e
